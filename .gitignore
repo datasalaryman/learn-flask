@@ -1,2 +1,5 @@
+# Ignore python stuff
+*/__pycache__/*
+
 # Ignore all venv folders
 */venv/*
